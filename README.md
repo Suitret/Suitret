@@ -1,16 +1,25 @@
 ### Hi there 👋
 
-<!--
-**Suitret/Suitret** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm [Tertius ADJAOKE], a [Software Engineer student] based in [Benin]. I'm passionate about [AI, Data Science, Software Engineering] and I love building [WordPress websites] in my free time.
 
-Here are some ideas to get you started:
+🔭 I’m currently working on [Simple Shell Project]
+🌱 I’m currently learning [Advanced Structures in C Language]
+💬 Ask me about [Programming]
+📫 How to reach me: [suitret01@gmail.com]
+😄 Pronouns: [You]
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Languages and Tools
+
+[Python C C++ Java HTML CSS]
+
+### My GitHub Stats
+
+[Insert Your GitHub Stats Card]
+
+### My Top Projects
+
+[Insert List of Your Top Projects with Links to Their Repositories or Deployed Versions]
+
+### Let's Connect!
+
+[Insert Links to Your Social Media Accounts, Website, Blog, or Other Relevant Links]
