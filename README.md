@@ -1,22 +1,22 @@
 ### Hi there! 👋
 
-I'm Tertius ADJAOKE, a Software Engineer student based in Benin. I'm passionate about AI, Data Science, and Software Engineering, and I love building WordPress websites in my free time.
+I'm [Tertius ADJAOKE], a passionate [Software Engineer student] based in [Benin]. I'm on a journey to explore the exciting realms of [AI, Data Science, Software Engineering], and I also enjoy crafting [WordPress websites] in my free time.
 
-🔭 I’m currently working on the Simple Shell Project.
-🌱 I’m currently learning Advanced Structures in C Language.
-💬 Ask me about Programming.
-📫 How to reach me: suitret01@gmail.com
-😄 Pronouns: You
+- 🔭 I’m currently working on the [Simple Shell Project] 🚀
+- 🌱 I’m currently diving deeper into [Advanced Structures in C Language] 📚
+- 💬 Ask me about anything related to [Programming] 💡
+- 📫 How to reach me: [suitret01@gmail.com] 📧
+- 😄 Pronouns: [You] 🙌
 
-### Languages and Tools
+### Languages and Tools 🛠️
 
-![Python](https://img.shields.io/badge/-Python-blue?logo=python&logoColor=white&style=flat-square)
-![C](https://img.shields.io/badge/-C-00599C?logo=c&logoColor=white&style=flat-square)
-![C++](https://img.shields.io/badge/-C++-00599C?logo=c%2B%2B&logoColor=white&style=flat-square)
-![Java](https://img.shields.io/badge/-Java-orange?logo=java&logoColor=white&style=flat-square)
-![HTML](https://img.shields.io/badge/-HTML-E34F26?logo=html5&logoColor=white&style=flat-square)
-![CSS](https://img.shields.io/badge/-CSS-1572B6?logo=css3&logoColor=white&style=flat-square)
-
+I'm proficient in:
+- Python 🐍
+- C 🅲
+- C++ ➕➕
+- Java ☕
+- HTML 🌐
+- CSS 🎨
 
 ### My GitHub Stats
 
