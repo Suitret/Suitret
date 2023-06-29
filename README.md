@@ -14,7 +14,7 @@ I'm [Tertius ADJAOKE], a [Software Engineer student] based in [Benin]. I'm passi
 
 ### My GitHub Stats
 
-[Insert Your GitHub Stats Card]
+[![My GitHub Stats](https://github-readme-stats.vercel.app/api?username=Suitret&show_icons=true&title_color=2f80ed&text_color=434d58&icon_color=4c71f2&bg_color=fffefe&hide_border=false&theme=default&cache_seconds=14400&locale=en&border_radius=6)](https://github.com/Suitret)
 
 ### My Top Projects
 
