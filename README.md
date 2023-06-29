@@ -14,12 +14,22 @@ I'm [Tertius ADJAOKE], a [Software Engineer student] based in [Benin]. I'm passi
 
 ### My GitHub Stats
 
-[![My GitHub Stats](https://github-readme-stats.vercel.app/api?username=Suitret&show_icons=true&title_color=2f80ed&text_color=434d58&icon_color=4c71f2&bg_color=fffefe&hide_border=false&theme=default&cache_seconds=14400&locale=en&border_radius=6)](https://github.com/Suitret)
+[![My GitHub Stats](https://github-readme-stats.vercel.app/api?username=Suitret&show_icons=true&theme=radical&hide_rank=true&custom_title=My%20Custom%20Stats%20Card&line_height=30)](https://github.com/Suitret)
 
-### My Top Projects
+### My Top Repository
 
-[Insert List of Your Top Projects with Links to Their Repositories or Deployed Versions]
+[![My Top Repository](https://github-readme-stats.vercel.app/api/pin/?username=Suitret&repo=alx-low_level_programming&show_owner=true&theme=vue-dark&custom_title=My%20Top%20Repositories)](https://github.com/Suitret/alx-low_level_programming)
+
+## My Most Used Languages
+
+[![My Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Suitret&layout=compact&langs_count=6&theme=gradient&custom_title=My%20Most%20Used%20Languages)](https://github.com/Suitret)
 
 ### Let's Connect!
 
-[Insert Links to Your Social Media Accounts, Website, Blog, or Other Relevant Links]
+You can find me on the web and connect with me through the following platforms:
+
+- [LinkedIn](https://www.linkedin.com/in/suitret/)
+- [Email](suitret01@gmail.com)
+- [GitHub](https://github.com/Suitret/)
+
+Feel free to reach out and connect with me. I'm always open to interesting discussions and collaborations!
