@@ -14,15 +14,16 @@ I'm [Tertius ADJAOKE], a [Software Engineer student] based in [Benin]. I'm passi
 
 ### My GitHub Stats
 
-[![My GitHub Stats](https://github-readme-stats.vercel.app/api?username=Suitret&show_icons=true&theme=radical&hide_rank=true&custom_title=My%20Custom%20Stats%20Card&line_height=30)](https://github.com/Suitret)
+[![My GitHub Stats](https://github-readme-stats.vercel.app/api?username=Suitret&show_icons=true&theme=dracula&hide_rank=true&custom_title=My%20GitHub%20Stats&line_height=35&hide_border=true&bg_color=00000000)](https://github.com/Suitret)
 
 ### My Top Repository
 
-[![My Top Repository](https://github-readme-stats.vercel.app/api/pin/?username=Suitret&repo=alx-low_level_programming&show_owner=true&theme=vue-dark&custom_title=My%20Top%20Repositories)](https://github.com/Suitret/alx-low_level_programming)
+[![My Top Repository](https://github-readme-stats.vercel.app/api/pin/?username=Suitret&repo=alx-low_level_programming&show_owner=true&theme=onedark&custom_title=My%20Top%20Repository&border_radius=10&hide_border=false)](https://github.com/Suitret/alx-low_level_programming)
 
 ## My Most Used Languages
 
-[![My Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Suitret&layout=compact&langs_count=6&theme=gradient&custom_title=My%20Most%20Used%20Languages)](https://github.com/Suitret)
+[![My Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Suitret&layout=compact&langs_count=8&theme=tokyonight&custom_title=My%20Most%20Used%20Languages&hide_border=true&border_radius=5)](https://github.com/Suitret)
+
 
 ### Let's Connect!
 
