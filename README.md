@@ -37,7 +37,7 @@ I'm proficient in:
 You can find me on the web and connect with me through the following platforms:
 
 - [LinkedIn](https://www.linkedin.com/in/suitret/)
-- [Email](suitret01@gmail.com)
+- [Email](mailto:suitret01@gmail.com)
 - [GitHub](https://github.com/Suitret/)
 
 Feel free to reach out and connect with me. I'm always open to interesting discussions and collaborations!
