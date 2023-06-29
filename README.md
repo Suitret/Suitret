@@ -20,15 +20,16 @@ I'm proficient in:
 
 ### My GitHub Stats
 
-[![My GitHub Stats](https://github-readme-stats.vercel.app/api?username=Suitret&show_icons=true&theme=dracula&hide_rank=true&custom_title=My%20GitHub%20Stats&line_height=40)](https://github.com/Suitret)
+[![My GitHub Stats](https://github-readme-stats.vercel.app/api?username=Suitret&show_icons=true&theme=merko&hide_rank=true&custom_title=My%20Custom%20Stats%20Card&line_height=30&title_color=2f80ed&text_color=ffffff&icon_color=6aa6f8&bg_color=000000)](https://github.com/Suitret)
 
 ### My Top Repository
 
-[![My Top Repository](https://github-readme-stats.vercel.app/api/pin/?username=Suitret&repo=alx-low_level_programming&show_owner=true&theme=nord&custom_title=My%20Top%20Repository)](https://github.com/Suitret/alx-low_level_programming)
+[![My Top Repository](https://github-readme-stats.vercel.app/api/pin/?username=Suitret&repo=alx-low_level_programming&show_owner=true&theme=merko&custom_title=My%20Top%20Repository&title_color=2f80ed&text_color=ffffff&icon_color=6aa6f8&bg_color=000000)](https://github.com/Suitret/alx-low_level_programming)
 
 ## My Most Used Languages
 
-[![My Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Suitret&layout=compact&langs_count=8&theme=radical&custom_title=My%20Most%20Used%20Languages)](https://github.com/Suitret)
+[![My Most Used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Suitret&layout=compact&langs_count=6&theme=merko&custom_title=My%20Most%20Used%20Languages&title_color=2f80ed&text_color=ffffff&bg_color=000000)](https://github.com/Suitret)
+
 
 
 ### Let's Connect!
