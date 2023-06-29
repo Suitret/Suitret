@@ -5,7 +5,7 @@ I'm Tertius ADJAOKE, a passionate 💻 Software Engineer student based in 🌍 B
 - 🔭 I’m currently working on the [Simple Shell Project] 🚀
 - 🌱 I’m currently diving deeper into [Advanced Structures in C Language] 📚
 - 💬 Ask me about anything related to [Programming] 💡
-- 📫 How to reach me: [suitret01@gmail.com] 📧
+- 📫 How to reach me: [Email](mailto:suitret01@gmail.com) 📧
 - 😄 Pronouns: [You] 🙌
 
 ### Languages and Tools 🛠️
