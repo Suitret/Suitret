@@ -1,6 +1,6 @@
 ### Hi there! 👋
 
-I'm [Tertius ADJAOKE], a passionate [Software Engineer student] based in [Benin]. I'm on a journey to explore the exciting realms of [AI, Data Science, Software Engineering], and I also enjoy crafting [WordPress websites] in my free time.
+I'm Tertius ADJAOKE, a passionate 💻 Software Engineer student based in 🌍 Benin. I'm on a journey to explore the exciting realms of 🤖 AI, 📊 Data Science, and 👨‍💻 Software Engineering. In my free time, I enjoy crafting 🌐 WordPress websites.
 
 - 🔭 I’m currently working on the [Simple Shell Project] 🚀
 - 🌱 I’m currently diving deeper into [Advanced Structures in C Language] 📚
