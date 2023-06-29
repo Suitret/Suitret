@@ -20,7 +20,7 @@ I'm proficient in:
 
 ### My GitHub Stats
 
-[![My GitHub Stats](https://github-readme-stats.vercel.app/api?username=Suitret&show_icons=true&theme=merko&hide_rank=true&custom_title=My%20Custom%20Stats%20Card&line_height=30&title_color=2f80ed&text_color=ffffff&icon_color=6aa6f8&bg_color=000000)](https://github.com/Suitret)
+[![My GitHub Stats](https://github-readme-stats.vercel.app/api?username=Suitret&show_icons=true&theme=merko&hide_rank=false&custom_title=My%20Custom%20Stats%20Card&line_height=30&title_color=2f80ed&text_color=ffffff&icon_color=6aa6f8&bg_color=000000)](https://github.com/Suitret)
 
 ### My Top Repository
 
