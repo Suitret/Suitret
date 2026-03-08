@@ -58,7 +58,7 @@ I'm organizing a **community AI mini-lab** where students in Abomey-Calavi, Beni
 
 **Why this matters:** AI shouldn't be a distant technology. Students in Abomey-Calavi can—and should—create solutions for their own community.
 
-👉 **[Learn more about the project](https://suitret.github.io/ai-minilab-abomey-calavi/)** (Project website)
+👉 **[Learn more about the project](https://suitret.github.io/ai-mini-lab-abomey-calavi/)** (Project website)
 
 ---
 
