@@ -1,6 +1,6 @@
 ### Hi there! 👋
 
-I'm Tertius ADJAOKE, a passionate 💻 Data Science student. I'm on a journey to explore the exciting realms of 🤖 AI, and 📊 Data Science. In my free time, I enjoy crafting 🌐 WordPress websites.
+I'm Tertius ADJAOKE, a passionate 💻 Data Scientist. I'm on a journey to explore the exciting realms of 🤖 AI, and 📊 Data Science. In my free time, I enjoy crafting 🌐 WordPress websites.
 
 - 🔭 I’m currently working on the [Simple Shell Project] 🚀
 - 🌱 I’m currently diving deeper into [Advanced Structures in C Language] 📚
