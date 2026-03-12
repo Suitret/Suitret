@@ -1,6 +1,6 @@
 <div align="center">
 
-# Hi there! 👋 I'm Tertius ADJAOKE
+# Hi there! 👋 I'm Tertius Adjaoke
 
 ### Data Scientist | AI Enthusiast | Community Builder
 
